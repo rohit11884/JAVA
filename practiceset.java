@@ -17,10 +17,6 @@ class Employee{
     public String getName(){
         return name;
     }
-
-
-
-   
     
 }
 public class practiceset {
