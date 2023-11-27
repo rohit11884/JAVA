@@ -4,7 +4,7 @@ import java.util.Random;
 public class GuessTheNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        Random rn=new Random();
+        Random rn=new Random(); 
         int computerin=rn.nextInt(100);
         // System.out.println(computerin);
         int userin;
