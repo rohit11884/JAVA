@@ -9,7 +9,7 @@ class smartphone extends phone{
     }
 }
 
-public class dynami_methord {
+public class dynamic_methord {
     public static void main(String[] args) {
         phone ob=new smartphone();
          ob.on();   // It will invoke methord of sub class
